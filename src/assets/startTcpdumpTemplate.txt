@@ -1,0 +1,3 @@
+@echo off
+for /f "tokens=2 delims==; " %%a in (' wmic process call create "adb shell cd /data/local/tmp; su -c \"./tcpdump -s 0 -i any -w /sdcard/tcpdump.pcap\"" ^| find "ProcessId" ') do set PID=%%a
+echo "%PID%" > pid.txt

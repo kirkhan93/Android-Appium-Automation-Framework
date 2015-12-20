@@ -1,0 +1,6 @@
+{
+  "adProvider1":{"url":"kjghkjhj","expected":1},
+  "adProvider2":{"url":"urlkljkl","expected":2},
+  "adProvider3":{"url":"something clever","expected":1},
+  "adProvider4":{"url":"something dumb","expected":2}
+}

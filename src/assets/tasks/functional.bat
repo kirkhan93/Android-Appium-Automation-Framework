@@ -1,0 +1,1 @@
+java -jar "D:\Auto\Local\androidappiumframework\out\artifacts\AppiumAutomation_jar\AppiumAutomation.jar" ANDROID_FUN

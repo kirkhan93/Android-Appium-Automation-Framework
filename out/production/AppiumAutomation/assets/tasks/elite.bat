@@ -1,0 +1,1 @@
+java -jar "C:\Auto\Local\androidappiumframework\out\artifacts\AppiumAutomation_jar\AppiumAutomation.jar" ANDROID_SC
