@@ -12,27 +12,26 @@ public class DistributionList {
 
             ANDROID =
                     {
-                    "Artur Spirin <a.spirin@anchorfree.com>",
-                    "Andrey Smyshlyaev <asmyshlyaev@anchorfree.com>",
-                    "Alexey Dubovkin <adubovkin@anchorfree.com>",
-                    "Dmitri Molchanov <dmolchanov@anchorfree.com>"
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com"
                     },
             DEBUG =
                     {
-                    "Artur Spirin <a.spirin@anchorfree.com>"
+                    "secret <secret>@anchorfree.com"
                     },
             ELITE =
                     {
-                    "Artur Spirin <a.spirin@anchorfree.com>",
-                    "Alexander Ilyin <ailyin@anchorfree.com>",
-                    "Konstantin Samoray <k.samoray@anchorfree.com>",
-                    "Pavel Smolin <psmolin@anchorfree.com>"
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com"
                     },
             SERVER =
                     {
-                    "Artur Spirin <a.spirin@anchorfree.com>"
-                    //"Viacheslav Nizametdinov <vnizametdinov@anchorfree.com>",
-                    //"Serjan Satimov <ssatimov@anchorfree.com>"
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com",
+                    "secret <secret>@anchorfree.com"
                     };
 
     public static String[] getDistributionList(){

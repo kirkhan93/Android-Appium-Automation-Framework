@@ -7,7 +7,7 @@ public class Website {
 
     public static final String
 
-            RSS_2_SEARCH                    = "http://www.rss2search.com/server.php",
+            RSS_2_SEARCH                    = "secret",
             BRAINRADIATION                  = "http://brainradiation.us/afiptest.php?ttext",
             COARSEPOWDER                    = "http://coarsepowder.us/afiptest.php?ttext",
             ELECTION_ADVISOR                = "http://2012electionadvisor.com/afiptest.php?ttext",
